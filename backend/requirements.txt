@@ -1,0 +1,4 @@
+Flask==2.0.1
+Pillow==8.2.0
+Werkzeug>=1.0,<3.0
+transformers>=4.11.3
