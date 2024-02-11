@@ -1,0 +1,10 @@
+fastapi
+Pillow
+python-multipart
+torch
+transformers
+uvicorn
+gradio
+donut-python
+pytorch-lightning==1.6.4
+timm==0.5.4
